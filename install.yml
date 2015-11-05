@@ -1,0 +1,5 @@
+# hiro cron installation config
+# used by h-install
+
+bin:
+  bin/h-cron
